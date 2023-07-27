@@ -30,6 +30,8 @@ Sales analysis by region/state
 5. Price strategy for products
 
 ## Modelling:
-Automatically, derived relationships ar e adjusted to remove and replace unwanted relationships. here, the dimensional table was modelled2.
+Automatically, derived relationships are adjusted to remove and replace unwanted relationships. here, the dimensional table was modelled2.
 
-The Model is a stor schema. There are two tables where one is fact table while the other is dimension table.. The dime
+![](Modelled_Table.PNG)
+
+The Model is a star schema. There are two tables where one is fact table while the other is dimension table.. The dime
